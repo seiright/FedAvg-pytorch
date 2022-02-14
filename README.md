@@ -1,2 +1,2 @@
-# FedAvg-pytorch-
+# FedAvg-pytorch
 FLDPHEcnn
